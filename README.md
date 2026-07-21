@@ -23,8 +23,11 @@
 
 ## 🚀 Quick Start
 
-Since **Locko** has zero dependencies, running it is as simple as it gets:
+Since **Locko** is a single-file application with zero external dependencies, getting started is completely effortless:
 
-1. **Clone or Download the repository:**
-   ```bash
-   git clone [https://github.com/your-username/locko.git](https://github.com/your-username/locko.git)
+1. **Download the File:**
+   Download the **`Locko.html`** file from this repository to your local computer.
+2. **Run in Browser:**
+   Double-click **`Locko.html`** to open and run it directly in any modern web browser (Chrome, Firefox, Edge, Safari, Brave).
+
+No installation, no build process, and no internet connection required!
