@@ -3,7 +3,7 @@
 **Locko** is a modern, lightweight, and cryptographically secure password generator that runs entirely in your browser. Designed with privacy and security first, all generation algorithms execute locally—no servers, no external dependencies, and no tracking.
 
 <p align="center">
-  <img src="https://github.com/Arvanta/Locko/blob/main/Locko_ScreenShot.png?raw=true" alt="alt text" width="600" />
+  <img src="https://raw.githubusercontent.com/Arvanta/Locko/main/Locko_ScreenShot.png" alt="Locko screenshot">
 </p>
 
 ---
